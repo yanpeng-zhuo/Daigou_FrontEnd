@@ -1,0 +1,11 @@
+.product_manage{
+    margin: 25px;
+    width: 100%;
+}
+.modal{
+    position: fixed;
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    z-index: 999;
+}
